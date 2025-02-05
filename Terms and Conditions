@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions - Setlist AI</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #007AFF;
+        }
+
+        .navbar {
+            margin-bottom: 40px;
+        }
+
+        .navbar a {
+            color: #007AFF;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
+        <a href="support.html">Support</a>
+    </nav>
+
+    <h1>Terms and Conditions</h1>
+    <p>Last updated: [Current Date]</p>
+
+    <section>
+        <h2>1. Acceptance of Terms</h2>
+        <p>By downloading and using Setlist AI, you agree to these Terms and Conditions. If you disagree with any part of these terms, you must not use the application.</p>
+    </section>
+
+    <section>
+        <h2>2. Service Description</h2>
+        <p>Setlist AI provides song recognition services during live events and video playback. The app allows users to:</p>
+        <ul>
+            <li>Identify songs in real-time during live performances</li>
+            <li>Create and manage playlists</li>
+            <li>Export playlists to music streaming services</li>
+            <li>Analyze videos for song identification</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. User Responsibilities</h2>
+        <p>Users must:</p>
+        <ul>
+            <li>Provide accurate information when using the app</li>
+            <li>Use the app in accordance with applicable laws</li>
+            <li>Not interfere with or disrupt the service</li>
+            <li>Maintain the security of their account credentials</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>4. Intellectual Property</h2>
+        <p>The app and its original content are and will remain the exclusive property of Setlist AI. Our service respects the intellectual property rights of others and expects users to do the same.</p>
+    </section>
+
+    <section>
+        <h2>5. Service Limitations</h2>
+        <p>The app requires:</p>
+        <ul>
+            <li>Active internet connection for song recognition</li>
+            <li>iOS version [Your minimum iOS version] or higher</li>
+            <li>Microphone access for live recording</li>
+            <li>Photo library access for video analysis</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>6. Disclaimer of Warranties</h2>
+        <p>The service is provided "as is" without warranties of any kind. We do not guarantee the accuracy of song recognition or the availability of third-party music services.</p>
+    </section>
+
+    <section>
+        <h2>7. Limitation of Liability</h2>
+        <p>Setlist AI shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the service.</p>
+    </section>
+
+    <section>
+        <h2>8. Changes to Terms</h2>
+        <p>We reserve the right to modify these terms at any time. We will notify users of any changes by updating the date at the top of this page.</p>
+    </section>
+
+    <section>
+        <h2>9. Contact Information</h2>
+        <p>For any questions about these Terms, please contact us at:</p>
+        <p>[Your Support Email]</p>
+    </section>
+</body>
+</html>
