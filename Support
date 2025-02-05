@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - Setlist AI</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #007AFF;
+        }
+
+        .navbar {
+            margin-bottom: 40px;
+        }
+
+        .navbar a {
+            color: #007AFF;
+            text-decoration: none;
+            margin-right: 20px;
+        }
+
+        .faq-item {
+            margin-bottom: 30px;
+        }
+
+        .faq-item h3 {
+            color: #007AFF;
+        }
+
+        .contact-box {
+            background: #f5f5f7;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="index.html">Home</a>
+        <a href="privacy-policy.html">Privacy Policy</a>
+        <a href="terms.html">Terms</a>
+    </nav>
+
+    <h1>Support Center</h1>
+
+    <section>
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <h3>How does song recognition work?</h3>
+            <p>Setlist AI uses advanced audio recognition technology to identify songs in real-time. Simply start recording during a concert, and the app will automatically identify songs as they play.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>Why do I need internet connection?</h3>
+            <p>Internet connection is required for song recognition and playlist export features. The app needs to communicate with music databases to identify songs and sync with music streaming services.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How do I export playlists?</h3>
+            <p>You can export your playlists to Apple Music or Spotify. Simply tap the export button on any playlist and choose your preferred music service. You'll need to be logged into the respective service.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>What if a song isn't recognized?</h3>
+            <p>Song recognition accuracy depends on various factors including audio quality and background noise. For best results, try to minimize background noise and ensure your phone's microphone isn't covered.</p>
+        </div>
+
+        <div class="faq-item">
+            <h3>How do I analyze a video?</h3>
+            <p>Go to the Video Analysis tab, select a video from your library, and the app will automatically scan it for songs. Make sure the video has clear audio for best results.</p>
+        </div>
+    </section>
+
+    <div class="contact-box">
+        <h2>Need More Help?</h2>
+        <p>Contact our support team at:</p>
+        <p>[Your Support Email]</p>
+        <p>We typically respond within 24 hours.</p>
+    </div>
+</body>
+</html>
