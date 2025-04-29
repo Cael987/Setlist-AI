@@ -52,7 +52,7 @@
             <li>Video data (when using the video analysis feature)</li>
             <li>Playlist information and liked songs</li>
             <li>Music service authentication tokens</li>
-            <li><strong>Spotify account information</strong> (user ID, display name, profile image) and OAuth tokens</li>
+            <li><strong>Spotify account information</strong>(user ID for playlist creation) and OAuth access tokens</li>
         </ul>
     </section>
 
@@ -83,7 +83,7 @@
             <li><code>playlist-modify-public</code>: Create and manage public playlists</li>
             <li><code>playlist-modify-private</code>: Create and manage private playlists</li>
         </ul>
-        <p>These permissions are requested only when you initiate a Spotify export. Your access and refresh tokens are stored securely on your device and never shared with third parties. You can revoke Setlist AI’s access at any time by visiting your Spotify account’s Apps settings: <a href="https://www.spotify.com/account/apps/" target="_blank">https://www.spotify.com/account/apps/</a>.</p>
+        <p>These permissions are requested only when you initiate a Spotify export. Your short-lived Spotify access token is handled securely while needed for the export operation and is not persistently stored by the app. You can revoke Setlist AI’s access at any time by visiting your Spotify account’s Apps settings: <a href="https://www.spotify.com/account/apps/" target="_blank">https://www.spotify.com/account/apps/</a>.</p>
     </section>
 
     <section>
